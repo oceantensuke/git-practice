@@ -1,1 +1,2 @@
 Hello QA
+Test case: login shows success message
